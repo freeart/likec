@@ -1,6 +1,6 @@
 <?php
 
-include_once('../app.php');
+include_once('../../app.php');
 
 class Api extends App
 {

@@ -1,7 +1,7 @@
 <?php
 
-include_once('../app.php');
-include_once('../view.php');
+include_once('../../app.php');
+include_once('../../view.php');
 include_once('../api/api.php');
 
 class Main extends App

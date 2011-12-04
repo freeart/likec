@@ -1,7 +1,7 @@
 <?php
 
 include_once('api.php');
-include_once('../view.php');
+include_once('../../view.php');
 
 $route = @$_REQUEST['r'];
 
